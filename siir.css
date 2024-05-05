@@ -139,6 +139,22 @@
             padding:10px 25px;
             height:100px;
         }
+        .siir-foto img{
+            width:500px;
+            height:460px;
+            object-fit: cover;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+           
+        }
+        .siir-foto{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 110px;
+            margin-bottom: -110px;
+        }
 
         .kayan {
             font-size: 32px;
