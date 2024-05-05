@@ -1,3 +1,16 @@
+.derslikler{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1500px; /* Genişlik değerini değiştirebilirsiniz */
+    gap: 13px; /* Resimler arasındaki boşluk */
+}
+
+.derslikler img {
+    width: calc(25% - 10px); /* Her bir resmin genişliğini %25 olarak ayarla, 10px boşluğu çıkar */
+    height: auto;
+}
+
+
 .aw-slider
 {
   width:800px;
