@@ -566,5 +566,24 @@
         .info{
             margin-right:160px;
         }
-     
+.do{
+    margin-left:550px;
+}
+.had{
+    position: absolute;
+    z-index: -1;
+    margin-top:175px;
+    padding-left: 600px;
+    
+  }
+.rrrr {
+    border:5px solid rgb(141, 13, 13);
+    padding:10px ;
+
+}
+.yyy {
+    border:5px solid rgb(141, 13, 13);
+    padding:10px ;
+
+}
    
