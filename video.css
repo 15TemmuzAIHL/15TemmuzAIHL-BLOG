@@ -593,14 +593,15 @@ overflow: hidden;
    flex-direction: row;
    margin-top: 150px;
    justify-content: space-around;
-   font-family: sans-serif;
+    
 }
 
  .yazi1 {  
  
-  height: 110px;
+  height: 90px;
   background-color: darkred;
   border-radius: 20px; 
+
 }
  
   .yazi1 p {
@@ -613,7 +614,7 @@ overflow: hidden;
 } 
 
 .yazi2   {    
-    height: 110px;
+    height: 90px;
     background-color: darkred;
     border-radius: 20px; 
   }
@@ -667,3 +668,18 @@ overflow: hidden;
 }
 
 }
+.yazi3 p {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    color: white;
+    font-size: 27px; 
+    padding-top: 35px;
+  } 
+  
+  .yazi3   {    
+      height: 110px;
+      background-color: darkred;
+      border-radius: 20px; 
+    }
+
